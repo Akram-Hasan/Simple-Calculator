@@ -11,6 +11,10 @@ const App = () => {
     Simple Calculator
     </h1>
       <Calculator/>
+      <p className="mt-10 font-medium text-white">
+      Developed by 🧑‍💻 <span className=" font-semibold text-[#00ff62]">Akram Hasan</span>
+      </p>
+
     </div>
   )
 }
