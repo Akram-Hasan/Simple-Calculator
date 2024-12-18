@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-color: #0f0f0f;
+    color: white;
+    background-image: linear-gradient(#161616 1px, transparent 1px),
+    linear-gradient(to right, #161616 1px, #0f0f0f 1px);
+    background-size: 20px 20px;
+}
